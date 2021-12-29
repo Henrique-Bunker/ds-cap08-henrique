@@ -1,8 +1,9 @@
-import React from 'react';
+import 'assets/styles/custom.scss';
+import Routes from 'Routes';
 import './App.css';
 
 function App() {
-  return <h1>Projeto</h1>;
+  return <Routes />;
 }
 
 export default App;
